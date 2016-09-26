@@ -1,0 +1,14 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bruna Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.16.2"
+  }
+}
